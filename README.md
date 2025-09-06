@@ -94,7 +94,7 @@
     你也可以通过 **手动输入** 框输入关键词，触发相应的物体检测和锚框显示。
 
 ## 项目结构
-'''
+
 recognition-system/
 │
 ├── new_main.py # 主程序入口
@@ -102,11 +102,10 @@ recognition-system/
 ├── model_calculation.py # 认知症评估模型和特征提取
 ├── statistics.py # 会话统计与分析
 ├── requirements.txt # 依赖项
-├── yolo11n.pt
+├── yolo11n.pt # YOLOv11模型权重文件
 ├── vosk-model-cn-0.22/ # Vosk语音模型
 ├── .env # 存储API密钥（可选）
 └── README.md # 项目的说明文件
-'''
 
 ## 注意事项
 
