@@ -3,4 +3,9 @@
 但是还没有数据支持与模型支持
 关于模型的选择以及数据的搜集和建模有待后续开发
 
+Currently, this is only a simple demo, 
+which merely realizes the function of adding specific anchor boxes to videos through keyword-based speech recognition.
+However, it still lacks data support and model support. 
+Matters such as model selection, data collection, and modeling are pending future development.
+
 """
