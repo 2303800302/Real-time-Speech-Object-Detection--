@@ -96,11 +96,12 @@
 ## 项目结构
 recognition-system/
 │
-├── main.py # 主程序入口
+├── new_main.py # 主程序入口
 ├── detector.py # YOLOv11模型和视频处理
 ├── model_calculation.py # 认知症评估模型和特征提取
 ├── statistics.py # 会话统计与分析
 ├── requirements.txt # 依赖项
+├── yolo11n.pt
 ├── vosk-model-cn-0.22/ # Vosk语音模型
 ├── .env # 存储API密钥（可选）
 └── README.md # 项目的说明文件
